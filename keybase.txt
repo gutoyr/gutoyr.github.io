@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/gutoyr
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://gutoyr.github.io
+  * I am gutoyr (https://keybase.io/gutoyr) on keybase.
+  * I have a public key with fingerprint F14A 23FC A714 3E3F 3A56  9E93 330B 1A08 DC41 7543
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "f14a23fca7143e3f3a569e93330b1a08dc417543",
+            "host": "keybase.io",
+            "key_id": "330b1a08dc417543",
+            "kid": "01014900969211a983deebf49c220124b7d1f3f541a51ab8bbcf3a0906cf69d36b240a",
+            "uid": "ab0665c878ae04706f2e03650e31de00",
+            "username": "gutoyr"
+        },
+        "service": {
+            "hostname": "gutoyr.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1425391507,
+    "expire_in": 157680000,
+    "prev": "6db297a87d2451943af9d7e76eec64641c9a33200094d782ebd691c155cc56fa",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFtkmtQVVUUxy8PlccQlaX4KuYkBYKw93mfKyWIGeIdmTEddXjNeexzOQLnXs+9
+XEBA1EKQh/goA2W00csUUVOMwBACIQOmkJmVQkUZDDMGDZROl1Eco3OoPjTT/rJn
+r/X///Zaa9axIB+TnxcRuNxvJD43wWtwQjBt93z2TiEm2KQCzFyIZaH5S1ZUK9Ls
+mqI6MTMmQ5LHCVnkGUgSiJAJnqI5xBEEAQTIA1YSSchQJIFFYZk2h+HQMQLvQNGK
+TY/pjwxF0qP/o8+aTwAIIMkBwNEcDiHPsYSEkCCTnIjjAOKkwEhQJmSKhDwFeYEV
+BFEvAnCAFmWakwhawEnA67jceRwvAJqmRJZheQRIBtAyjgBBUwARUEIAGEIH0lQ+
+B+lqa67TVqBhxVGYHnMpIjIGYPTxn3y0VXFm5gp/d2TXbE6baMvWs5lOp91hNtzO
+Arshz0NCxj+gDEFRJX2SusOFNIdiUzEz1JWiUzHIkMQpgoMUYKIwlG9XNJShGAqK
+oVmgH+Mf5NKRtCTgHMOzjISTFORIgpc5iUEMjZBIkzQJRY4nCFy3cKTEsDgSJJqD
+IqQoUaRo2RiMA+1VbZiZ0svkrTrSoVhV3pmr+SKsOOCI90pfk5efaeECb2MbTAH+
+T/67IgXfBc/tgbe31Js27lyRsHpdz9AL/c7EbTvSli0qf2v0uUdVxSNtWd27xkqT
+NgyFVH5a5j89tv50b/hZPK8D77tlzT5wZ7Y48qBn+m7l54NLZyzNoU0RSQtiV14c
+F+pifLTW2cP3h8dGn17vk1x/pinuqddHgtjE8YWvkce1Jwbe9Ug+f2oHkurydh7+
+8kz+REj8ZPzZa+ovzcOVHsB+0bN76o/TA4ktD9uysMiKwKNH3RGX4sLMWmht8/i6
+H6OWvlzX8Oav+8Y6LXkFVz9oa5i47gpr23rCu7WlY+6TsB2JzWhNcEft88vUOH9s
+U37ojZzqzRssp5S1qUOypSa4e7A24lt+yq+4JP1ubM4t7twbIPNcRQd9r2T3z30j
+MVMznUXyM70d/l3JL4YFug9dL0xV36bpou9nXMfPL4k99mD/10fen/poScqh2Ms/
+1E/f7o/siQ8NmsyuS0j3mbqwyH0V7q9+Kab3t5oT2VVereFf1Vti7LX46u4Q16qD
+zzZs2ly1b/Gqxv57A+GEeiOEflR+JfbShY+Zus7lXsP2BzLnrtm+BaS9kh59fwV7
+7ffxrVduNp3CSgfdAY/zz3NVFJ8y92r8zcyE5LkmtbF272LfsnZPCO+Z7rtTDk6W
+JqftuvjYL72roqUqZU9jYmX1N7OXu5rbR9eWVJZ9mMoUdW2bbP/JNjT7MH/kvZST
+CdFrJv8C
+=QnS/
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gutoyr
+
+==================================================================
+
